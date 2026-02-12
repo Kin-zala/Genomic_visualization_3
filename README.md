@@ -47,19 +47,29 @@ This layout enables easy comparison across categories while maintaining consiste
 ---
 
 ## ▶ How to Run
-
-### Option 1: Jupyter Notebook
+### 1. Clone the Repository
 
 ```bash
-jupyter notebook
-https://github.com/Kin-zala/Genomic_visualization_3/blob/ea5b7bb13a2948e1776e3879b23312af1937b422/notebooks/Visualization_Exercise_3.ipynb
+git clone https://github.com/Kin-zala/Genomic_visualization_3.git
 ```
-### Run all the cells.
+### 2. Install Required Libraries
+### Make sure Python 3.x is installed, then run:
+``` pip install -r requirements.txt
+```
 
-### option 2: Python script
+### 3. Run the Project
+Option A – Using Jupyter Notebook:
+``` jupyter notebook
 ```
-python scripts/plot_lineplots_grid.py
+### Open:
+``` notebooks/Visualization_Exercise_3.ipynb
+```
+### Then click Run All Cells.
 
+Option B – Using Python Script:
+``` python scripts/plot_lineplots_grid.py
 ```
+
+
 ### OUTPUT
 ![alt-image](https://github.com/Kin-zala/Genomic_visualization_3/blob/ea5b7bb13a2948e1776e3879b23312af1937b422/images/lineplots_grid_example.png)
