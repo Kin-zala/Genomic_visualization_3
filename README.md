@@ -11,6 +11,9 @@ The visualization consists of a **2x3 grid of line plots**, each representing pe
 - `data/`
   - `10_project_data_lineplots.csv` – Dataset used for generating the plots.
 
+- `images/`
+  - `lineplots_grid_example.png` – Example output image.
+
 - `notebooks/`
   - `Visualization_Exercise_3.ipynb` – Jupyter notebook containing the complete solution.
 
