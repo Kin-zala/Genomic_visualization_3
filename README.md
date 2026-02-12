@@ -53,7 +53,7 @@ This layout enables easy comparison across categories while maintaining consiste
 git clone https://github.com/Kin-zala/Genomic_visualization_3.git
 ```
 ### 2. Install Required Libraries
-### Make sure Python 3.x is installed, then run:
+#### Make sure Python 3.x is installed, then run:
 ```bash 
 pip install -r requirements.txt
 ```
@@ -63,11 +63,11 @@ pip install -r requirements.txt
 ```bash
  jupyter notebook
 ```
-### Open:
+#### Open:
 ```bash
  notebooks/Visualization_Exercise_3.ipynb
 ```
-### Then click Run All Cells.
+#### Then click 'Run All Cells'.
 
 **Option B** – Using Python Script:
 ```bash
