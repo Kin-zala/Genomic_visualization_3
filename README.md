@@ -20,9 +20,6 @@ The visualization consists of a **2x3 grid of line plots**, each representing pe
 - `scripts/`
   - `plot_lineplots_grid.py` – Standalone Python script to generate the visualization.
 
-- `images/`
-  - `lineplots_grid_example.png` – Example output image (optional).
-
 ---
 
 ## 📊 Visualization Description
