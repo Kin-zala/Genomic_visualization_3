@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Read data
-lp = pd.read_csv('10_project_data_lineplots.csv')
+lp = pd.read_csv('data\\10_project_data_lineplots.csv')
 
 # Create 2x3 subplot grid
 fig, axs = plt.subplots(2, 3, figsize=(20, 10))
