@@ -54,20 +54,24 @@ git clone https://github.com/Kin-zala/Genomic_visualization_3.git
 ```
 ### 2. Install Required Libraries
 ### Make sure Python 3.x is installed, then run:
-``` pip install -r requirements.txt
+```bash 
+pip install -r requirements.txt
 ```
 
 ### 3. Run the Project
 Option A – Using Jupyter Notebook:
-``` jupyter notebook
+```bash
+ jupyter notebook
 ```
 ### Open:
-``` notebooks/Visualization_Exercise_3.ipynb
+```bash
+ notebooks/Visualization_Exercise_3.ipynb
 ```
 ### Then click Run All Cells.
 
 Option B – Using Python Script:
-``` python scripts/plot_lineplots_grid.py
+```bash
+ python scripts/plot_lineplots_grid.py
 ```
 
 
