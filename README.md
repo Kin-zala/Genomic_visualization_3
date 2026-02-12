@@ -54,5 +54,12 @@ This layout enables easy comparison across categories while maintaining consiste
 jupyter notebook
 https://github.com/Kin-zala/Genomic_visualization_3/blob/ea5b7bb13a2948e1776e3879b23312af1937b422/notebooks/Visualization_Exercise_3.ipynb
 ```
+### Run all the cells.
+
+### option 2: Python script
+```
+python scripts/plot_lineplots_grid.py
+
+```
 ### OUTPUT
 ![alt-image](https://github.com/Kin-zala/Genomic_visualization_3/blob/ea5b7bb13a2948e1776e3879b23312af1937b422/images/lineplots_grid_example.png)
