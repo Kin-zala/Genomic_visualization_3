@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the Project
-Option A – Using Jupyter Notebook:
+**Option A** – Using Jupyter Notebook:
 ```bash
  jupyter notebook
 ```
@@ -69,7 +69,7 @@ Option A – Using Jupyter Notebook:
 ```
 ### Then click Run All Cells.
 
-Option B – Using Python Script:
+**Option B** – Using Python Script:
 ```bash
  python scripts/plot_lineplots_grid.py
 ```
